@@ -1,4 +1,4 @@
-# CS492
+# CS492 Project Github
 <br/>1. KAIST CS492 Project 
 <br/>2. Tilte: Feature Metric Registration
 <br/>3. Full source and data link : https://kaist.gov-dooray.com/project/drive-files/3025663221364120263
