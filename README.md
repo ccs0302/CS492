@@ -1,7 +1,7 @@
 # CS492 Project Github
 <br/>1. KAIST CS492 Project 
 <br/>2. Tilte: Feature Metric Registration
-<br/>3. Full source and data link : https://kaist.gov-dooray.com/project/drive-files/3025663221364120263 (Becasue of data size, I upoad all data in kaist cloud at)
+<br/>3. Full source and data link : https://kaist.gov-dooray.com/project/drive-files/3025663221364120263 (For data size, I upoad all data in kaist cloud at)
 <br/>4. Excecution of FMR
 <br/>&nbsp;4.1 Learn : python3 excecuteTrain.py
 <br/>&nbsp;4.2 Test and Vis : python3 excecuteTest.py
