@@ -9,10 +9,10 @@
  Generation Data(delunny) : python3 genXXX.py
  baseline ICP : matching.m
 5. Environment
-- Matlab code is runnable in R2020a in Window 10
-- Python code is runnable in python 3.8.5 in Ububtu 20
-- CUDA Version: 11.2
-- Python pakage list
+Matlab code is runnable in R2020a in Window 10
+Python code is runnable in python 3.8.5 in Ububtu 20
+CUDA Version: 11.2
+Python pakage list
   absl-py==0.12.0
   addict==2.4.0
   anyio==2.2.0
