@@ -126,7 +126,7 @@
 <br/>&nbsp;&nbsp;nbformat==5.1.2
 <br/>&nbsp;&nbsp;nest-asyncio==1.5.1
 <br/>&nbsp;&nbsp;netifaces==0.10.4
-<br/>&nbsp;nbsp;networkx==2.5
+<br/>&nbsp;&nbsp;networkx==2.5
 <br/>&nbsp;&nbsp;ninja==1.10.0.post2
 <br/>&nbsp;&nbsp;notebook==6.3.0
 <br/>&nbsp;&nbsp;numba==0.49.1
