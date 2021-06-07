@@ -4,11 +4,11 @@
 3. Full source and data link : https://kaist.gov-dooray.com/project/drive-files/3025663221364120263
 (Becasue of data size, I upoad all data in kaist cloud at)
 3. Excecution of FMR
-- Learn :python3 excecuteTrain.py
-- Test : python3 excecuteTest.py
-- Generation Data(delunny) : python3 genXXX.py
-- baseline ICP : matching.m
-- visualization : 
+ Learn :python3 excecuteTrain.py
+ Test : python3 excecuteTest.py
+ Generation Data(delunny) : python3 genXXX.py
+ baseline ICP : matching.m
+ visualization : 
 5. Environment
 - Matlab code is runnable in R2020a in Window 10
 - Python code is runnable in python 3.8.5 in Ububtu 20
