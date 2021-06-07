@@ -1,13 +1,12 @@
 # CS492 Project Github
 <br/>1. KAIST CS492 Project 
 <br/>2. Tilte: Feature Metric Registration
-<br/>3. Full source and data link : https://kaist.gov-dooray.com/project/drive-files/3025663221364120263
-(Becasue of data size, I upoad all data in kaist cloud at)
+<br/>3. Full source and data link : https://kaist.gov-dooray.com/project/drive-files/3025663221364120263 (Becasue of data size, I upoad all data in kaist cloud at)
 <br/>4. Excecution of FMR
-<br/>&nbsp;4.1 Learn :python3 excecute
-<br/>&nbsp;4.2 Train.pyTest : python3 excecuteTest.py
+<br/>&nbsp;4.1 Learn :python3 excecuteTrain.py
+<br/>&nbsp;4.2 Test and Vis : python3 excecuteTest.py
 <br/>&nbsp;4.3 Generation Data(delunny) : python3 genXXX.py
-<br/>&nbsp;4.4 baseline ICP : exp_maching_methods.m
+<br/>&nbsp;4.4 TestBaselineICP and Vis : exp_maching_methods.m
 <br/>5. Environment
 <br/>&nbsp;5.1 Matlab code is runnable in R2020a in Window 10
 <br/>&nbsp;5.2 Python code is runnable in python 3.8.5 in Ububtu 20
