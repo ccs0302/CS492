@@ -8,7 +8,6 @@
  Test : python3 excecuteTest.py
  Generation Data(delunny) : python3 genXXX.py
  baseline ICP : matching.m
- visualization : 
 5. Environment
 - Matlab code is runnable in R2020a in Window 10
 - Python code is runnable in python 3.8.5 in Ububtu 20
