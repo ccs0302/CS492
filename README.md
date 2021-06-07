@@ -3,7 +3,7 @@
 <br/>2. Tilte: Feature Metric Registration
 <br/>3. Full source and data link : https://kaist.gov-dooray.com/project/drive-files/3025663221364120263 (Becasue of data size, I upoad all data in kaist cloud at)
 <br/>4. Excecution of FMR
-<br/>&nbsp;4.1 Learn :python3 excecuteTrain.py
+<br/>&nbsp;4.1 Learn : python3 excecuteTrain.py
 <br/>&nbsp;4.2 Test and Vis : python3 excecuteTest.py
 <br/>&nbsp;4.3 Generation Data(delunny) : python3 genXXX.py
 <br/>&nbsp;4.4 TestBaselineICP and Vis : exp_maching_methods.m
