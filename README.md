@@ -6,7 +6,7 @@
 <br/>4. Excecution of FMR
 <br/>4.1 Learn :python3 excecuteTrain.pyTest : python3 excecuteTest.py
 <br/>4.2 Generation Data(delunny) : python3 genXXX.py
-<br/>4.3 baseline ICP : matching.m
+<br/>4.3 baseline ICP : exp_maching_methods.m
 <br/>5. Environment
 <br/>5.1 Matlab code is runnable in R2020a in Window 10
 <br/>5.2 Python code is runnable in python 3.8.5 in Ububtu 20
