@@ -3,19 +3,18 @@
 2. Tilte: Feature Metric Registration
 3. Full source and data link : https://kaist.gov-dooray.com/project/drive-files/3025663221364120263
 (Becasue of data size, I upoad all data in kaist cloud at)
-3. Excecution of FMR
- Learn :python3 excecuteTrain.py
- Test : python3 excecuteTest.py
- Generation Data(delunny) : python3 genXXX.py
- baseline ICP : matching.m
+4. Excecution of FMR
+4.1 Learn :python3 excecuteTrain.pyTest : python3 excecuteTest.py
+4.2 Generation Data(delunny) : python3 genXXX.py
+4.3 baseline ICP : matching.m
 5. Environment
-Matlab code is runnable in R2020a in Window 10
-Python code is runnable in python 3.8.5 in Ububtu 20
-CUDA Version: 11.2
-Python pakage list
-  absl-py==0.12.0
-  addict==2.4.0
-  anyio==2.2.0
+5.1 Matlab code is runnable in R2020a in Window 10
+5.2 Python code is runnable in python 3.8.5 in Ububtu 20
+5.3 CUDA Version: 11.2
+5.4 Python pakage list
+absl-py==0.12.0
+addict==2.4.0
+anyio==2.2.0
   appdirs==1.4.4
   apturl==0.5.2
   argon2-cffi==20.1.0
