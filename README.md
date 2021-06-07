@@ -12,121 +12,121 @@
 5.2 Python code is runnable in python 3.8.5 in Ububtu 20
 5.3 CUDA Version: 11.2
 5.4 Python pakage list
-absl-py==0.12.0
-addict==2.4.0
-anyio==2.2.0
-  appdirs==1.4.4
-  apturl==0.5.2
-  argon2-cffi==20.1.0
-  ase==3.21.1
-  astunparse==1.6.3
-  async-generator==1.10
-  attrs==20.3.0
-  Babel==2.9.0
-  backcall==0.2.0
-  bcrypt==3.1.7
-  black==20.8b1
-  bleach==3.3.0
-  blinker==1.4
-  Brlapi==0.7.0
-  cachetools==4.2.1
-  certifi==2019.11.28
-  cffi==1.14.5
-  chamfer-distance==0.1
-  chardet==3.0.4
-  click==7.1.2
-  colorama==0.4.3
-  command-not-found==0.3
-  configparser==5.0.2
-  cryptography==2.8
-  cupshelpers==1.0
-  cycler==0.10.0
-  Cython==0.29.22
-  dbus-python==1.2.16
-  decorator==4.4.2
-  defer==1.0.6
-  defusedxml==0.7.1
-  distro==1.4.0
-  distro-info===0.23ubuntu1
-  docker-pycreds==0.4.0
-  duplicity==0.8.12.0
-  easydict==1.9
-  entrypoints==0.3
-  fasteners==0.14.1
-  filelock==3.0.12
-  flake8==3.9.0
-  flake8-bugbear==21.3.2
-  flake8-comprehensions==3.4.0
-  flatbuffers==1.12
-  future==0.18.2
-  fvcore==0.1.5.post20210330
-  gast==0.3.3
-  gdown==3.12.2
-  gitdb==4.0.7
-  GitPython==3.1.14
-  google-auth==1.28.0
-  google-auth-oauthlib==0.4.4
-  google-pasta==0.2.0
-  googledrivedownloader==0.4
-  gql==0.2.0
-  graphql-core==1.1
-  grpcio==1.32.0
-  h5py==2.10.0
-  httplib2==0.14.0
-  hydra-core==0.11.3
-  idna==2.8
-  imageio==2.9.0
-  iopath==0.1.8
-  ipykernel==5.5.3
-  ipython==7.22.0
-  ipython-genutils==0.2.0
-  ipywidgets==7.6.3
-  isodate==0.6.0
-  isort==4.3.21
-  jedi==0.18.0
-  Jinja2==2.11.3
-  joblib==1.0.1
-  json5==0.9.5
-  jsonpatch==1.32
-  jsonpointer==2.1
-  jsonschema==3.2.0
-  jupyter-client==6.1.12
-  jupyter-core==4.7.1
-  jupyter-packaging==0.7.12
-  jupyter-server==1.5.1
-  jupyterlab==3.0.12
-  jupyterlab-pygments==0.1.2
-  jupyterlab-server==2.4.0
-  jupyterlab-widgets==1.0.0
-  Keras==2.4.3
-  Keras-Preprocessing==1.1.2
-  keyring==18.0.1
-  kiwisolver==1.3.1
-  language-selector==0.1
-  launchpadlib==1.10.13
-  lazr.restfulclient==0.14.2
-  lazr.uri==1.0.3
-  linecache2==1.0.0
-  llvmlite==0.32.1
-  lockfile==0.12.2
-  louis==3.12.0
-  macaroonbakery==1.3.1
-  Mako==1.1.0
-  Markdown==3.3.4
-  MarkupSafe==1.1.0
-  matplotlib==3.4.0
-  mccabe==0.6.1
-  mistune==0.8.4
-  monotonic==1.5
-  mypy-extensions==0.4.3
-  nbclassic==0.2.6
-  nbclient==0.5.3
-  nbconvert==6.0.7
-  nbformat==5.1.2
-  nest-asyncio==1.5.1
-  netifaces==0.10.4
-  networkx==2.5
-  ninja==1.10.0.post2
+&nbsp;absl-py==0.12.0
+&nbsp;addict==2.4.0
+&nbsp;anyio==2.2.0
+&nbsp;appdirs==1.4.4
+&nbsp;apturl==0.5.2
+&nbsp;argon2-cffi==20.1.0
+&nbsp;ase==3.21.1
+&nbsp;astunparse==1.6.3
+&nbsp;async-generator==1.10
+&nbsp;attrs==20.3.0
+&nbsp;Babel==2.9.0
+&nbsp;backcall==0.2.0
+&nbsp;bcrypt==3.1.7
+&nbsp;black==20.8b1
+&nbsp;bleach==3.3.0
+&nbsp;blinker==1.4
+&nbsp;Brlapi==0.7.0
+&nbsp;cachetools==4.2.1
+&nbsp;certifi==2019.11.28
+&nbsp;cffi==1.14.5
+&nbsp;chamfer-distance==0.1
+&nbsp;chardet==3.0.4
+&nbsp;click==7.1.2
+&nbsp;colorama==0.4.3
+&nbsp;command-not-found==0.3
+&nbsp;configparser==5.0.2
+&nbsp;cryptography==2.8
+&nbsp;cupshelpers==1.0
+&nbsp;cycler==0.10.0
+&nbsp;Cython==0.29.22
+&nbsp;dbus-python==1.2.16
+&nbsp;decorator==4.4.2
+&nbsp;defer==1.0.6
+&nbsp;defusedxml==0.7.1
+&nbsp;distro==1.4.0
+&nbsp;distro-info===0.23ubuntu1
+&nbsp;docker-pycreds==0.4.0
+&nbsp;duplicity==0.8.12.0
+&nbsp;easydict==1.9
+&nbsp;entrypoints==0.3
+&nbsp;fasteners==0.14.1
+&nbsp;filelock==3.0.12
+&nbsp;flake8==3.9.0
+&nbsp;flake8-bugbear==21.3.2
+&nbsp;flake8-comprehensions==3.4.0
+&nbsp;flatbuffers==1.12
+&nbsp;future==0.18.2
+&nbsp;fvcore==0.1.5.post20210330
+&nbsp;gast==0.3.3
+&nbsp;gdown==3.12.2
+&nbsp;gitdb==4.0.7
+&nbsp;GitPython==3.1.14
+&nbsp;google-auth==1.28.0
+&nbsp;google-auth-oauthlib==0.4.4
+&nbsp;google-pasta==0.2.0
+&nbsp;googledrivedownloader==0.4
+&nbsp;gql==0.2.0
+&nbsp;graphql-core==1.1
+&nbsp;grpcio==1.32.0
+&nbsp;h5py==2.10.0
+&nbsp;httplib2==0.14.0
+&nbsp;hydra-core==0.11.3
+&nbsp;idna==2.8
+&nbsp;imageio==2.9.0
+&nbsp;iopath==0.1.8
+&nbsp;ipykernel==5.5.3
+&nbsp;ipython==7.22.0
+&nbsp;ipython-genutils==0.2.0
+&nbsp;ipywidgets==7.6.3
+&nbsp;isodate==0.6.0
+&nbsp;isort==4.3.21
+&nbsp;jedi==0.18.0
+&nbsp;Jinja2==2.11.3
+&nbsp;joblib==1.0.1
+&nbsp;json5==0.9.5
+&nbsp;jsonpatch==1.32
+&nbsp;jsonpointer==2.1
+&nbsp;jsonschema==3.2.0
+&nbsp;jupyter-client==6.1.12
+&nbsp;jupyter-core==4.7.1
+&nbsp;jupyter-packaging==0.7.12
+&nbsp;jupyter-server==1.5.1
+&nbsp;jupyterlab==3.0.12
+&nbsp;jupyterlab-pygments==0.1.2
+&nbsp;jupyterlab-server==2.4.0
+&nbsp;jupyterlab-widgets==1.0.0
+&nbsp;Keras==2.4.3
+&nbsp;Keras-Preprocessing==1.1.2
+&nbsp;keyring==18.0.1
+&nbsp;kiwisolver==1.3.1
+&nbsp;language-selector==0.1
+&nbsp;launchpadlib==1.10.13
+&nbsp;lazr.restfulclient==0.14.2
+&nbsp;lazr.uri==1.0.3
+&nbsp;linecache2==1.0.0
+&nbsp;llvmlite==0.32.1
+&nbsp;lockfile==0.12.2
+&nbsp;louis==3.12.0
+&nbsp;macaroonbakery==1.3.1
+&nbsp;Mako==1.1.0
+&nbsp;Markdown==3.3.4
+&nbsp;MarkupSafe==1.1.0
+&nbsp;matplotlib==3.4.0
+&nbsp;mccabe==0.6.1
+&nbsp;mistune==0.8.4
+&nbsp;monotonic==1.5
+&nbsp;mypy-extensions==0.4.3
+&nbsp;nbclassic==0.2.6
+&nbsp;nbclient==0.5.3
+&nbsp;nbconvert==6.0.7
+&nbsp;nbformat==5.1.2
+&nbsp;nest-asyncio==1.5.1
+&nbsp;netifaces==0.10.4
+&nbsp;networkx==2.5
+&nbsp;ninja==1.10.0.post2
   notebook==6.3.0
   numba==0.49.1
   numpy==1.19.5
@@ -147,10 +147,10 @@
   pexpect==4.6.0
   pickleshare==0.7.5
   Pillow==7.0.0
-  plotly==4.14.3
-  plyfile==0.7.3
-  point-cloud-utils @ git+git://github.com/fwilliams/point-cloud-utils@c36f07ad1ad524bdd2d0cc15f3ee2d538e066ccf
-  portalocker==2.3.0
+&nbsp;plotly==4.14.3
+&nbsp;plyfile==0.7.3
+&nbsp;point-cloud-utils @ git+git://github.com/fwilliams/point-cloud-utils@c36f07ad1ad524bdd2d0cc15f3ee2d538e066ccf
+&nbsp;portalocker==2.3.0
   prometheus-client==0.9.0
   promise==2.3
   prompt-toolkit==3.0.18
